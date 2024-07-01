@@ -1,4 +1,4 @@
-# SPV Wallet Workshop
+# SPV Wallet Workshop - TSSOC'24
 
 This project demonstrates the basic usage of the Neucron SDK, including authentication, wallet management, and transactions.
 
